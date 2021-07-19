@@ -1,2 +1,5 @@
 # pandas-challenge
-use of pandas to show gaming purchases
+Using pandas within puthon to show gaming purchases analysis for Heroes of Pymoli.
+
+# Table of Contents
+##Heroes of Pymoli
