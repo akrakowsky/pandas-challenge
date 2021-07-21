@@ -3,5 +3,9 @@ Using pandas within puthon to show gaming purchases analysis for Heroes of Pymol
 
 # Table of Contents
 **A. Heroes of Pymoli**<br>
- -Heroes of Pymoli Jupyter Notebook file<br>
- -Purchse Data csv file
+ 1.Heroes of Pymoli Jupyter Notebook file<br>
+    a. Purchase Summary Table<br>
+    b. Purchase Analysis by Gender<br>
+    c. Puchase Analysis by Age<br>
+    d. Top 5 spenders
+ 2.Purchse Data csv file
