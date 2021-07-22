@@ -7,5 +7,7 @@ Using pandas within puthon to show gaming purchases analysis for Heroes of Pymol
     a. Purchase Summary Table<br>
     b. Purchase Analysis by Gender<br>
     c. Puchase Analysis by Age<br>
-    d. Top 5 spenders
+    d. Top 5 spenders<br>
+    e. Top 5 Items<br>
+    f. Top 5 Profitable Items<br>
  2.Purchse Data csv file
