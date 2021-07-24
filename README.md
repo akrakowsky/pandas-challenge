@@ -10,4 +10,5 @@ Using pandas within puthon to show gaming purchases analysis for Heroes of Pymol
     d. Top 5 spenders<br>
     e. Top 5 Items<br>
     f. Top 5 Profitable Items<br>
+    g. Observational Trends<br>
  2.Purchse Data csv file
